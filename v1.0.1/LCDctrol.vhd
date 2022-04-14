@@ -24,8 +24,8 @@ DCLKCNT:	process(DCLK)												--行信号计数
 				IF	  Thsync<408 THEN Thsync<=Thsync+1;
 				ELSE Thsync<=0;
 				END IF;	
-				IF	Thsync<30 THEN PHSYNC<='0';--行同步信号
-			ELSE					PHSYNC<='1';
+			IF	Thsync<30 THEN PHSYNC<='0';--行同步信号
+			ELSE	PHSYNC<='1';
 			END IF;
 			END IF;
 END PROCESS	DCLKCNT;			
@@ -38,9 +38,9 @@ TvsyncCNT:	process(PHSYNC)										--场信号计数
 				IF	  Tvsync<262 THEN Tvsync<=Tvsync+1;
 				ELSE Tvsync<=0;
 				END IF;	
-				IF	Tvsync<3  THEN PVSYNC<='0';--场同步信号
-				ELSE					PVSYNC<='1';
-				END IF;
+			IF	Tvsync<3  THEN PVSYNC<='0';--场同步信号
+			ELSE					PVSYNC<='1';
+			END IF;
 			END IF;
 END PROCESS	TvsyncCNT;	
 			
