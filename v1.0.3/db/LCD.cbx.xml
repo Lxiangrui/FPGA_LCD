@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="LCD">
+		<CBX_INST_ENTRY INSTANCE_NAME="|LCD|Echo:inst2|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_kkm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|LCD|Echo:inst2|lpm_mult:Mult0" CBX_FILE_NAME="mult_dft.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|LCD|altpll0:inst|altpll:altpll_component" CBX_FILE_NAME="altpll0_altpll.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|LCD|lpm_counter0:inst4|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_coj.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

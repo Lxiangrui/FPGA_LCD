@@ -1,0 +1,281 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'Echo_snl'
+Slack : -71.453
+TNS   : -8004.823
+
+Type  : Slow 1200mV 85C Model Setup 'LCDctrol:inst1|Thsync[0]'
+Slack : -5.557
+TNS   : -5.557
+
+Type  : Slow 1200mV 85C Model Setup 'LCDctrol:inst1|PHSYNC'
+Slack : -2.292
+TNS   : -22.537
+
+Type  : Slow 1200mV 85C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.695
+TNS   : -11.777
+
+Type  : Slow 1200mV 85C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 994.897
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 3993.519
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'LCDctrol:inst1|Thsync[0]'
+Slack : -3.403
+TNS   : -3.403
+
+Type  : Slow 1200mV 85C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.177
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.464
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Echo_snl'
+Slack : 0.510
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'LCDctrol:inst1|PHSYNC'
+Slack : 0.518
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.739
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'Echo_snl'
+Slack : -3.263
+TNS   : -52.442
+
+Type  : Slow 1200mV 85C Model Recovery 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -3.261
+TNS   : -119.694
+
+Type  : Slow 1200mV 85C Model Removal 'Echo_snl'
+Slack : 1.652
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Echo_snl'
+Slack : -3.000
+TNS   : -2911.572
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'LCDctrol:inst1|PHSYNC'
+Slack : -1.487
+TNS   : -14.870
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'LCDctrol:inst1|Thsync[0]'
+Slack : 0.143
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLKIN'
+Slack : 19.934
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 79.778
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 499.531
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 1999.718
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Echo_snl'
+Slack : -65.354
+TNS   : -7429.039
+
+Type  : Slow 1200mV 0C Model Setup 'LCDctrol:inst1|Thsync[0]'
+Slack : -5.144
+TNS   : -5.144
+
+Type  : Slow 1200mV 0C Model Setup 'LCDctrol:inst1|PHSYNC'
+Slack : -2.063
+TNS   : -20.252
+
+Type  : Slow 1200mV 0C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.343
+TNS   : -9.017
+
+Type  : Slow 1200mV 0C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 995.309
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 3994.022
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'LCDctrol:inst1|Thsync[0]'
+Slack : -3.390
+TNS   : -3.390
+
+Type  : Slow 1200mV 0C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.068
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.416
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Echo_snl'
+Slack : 0.472
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'LCDctrol:inst1|PHSYNC'
+Slack : 0.480
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.686
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'Echo_snl'
+Slack : -3.002
+TNS   : -47.213
+
+Type  : Slow 1200mV 0C Model Recovery 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -2.817
+TNS   : -102.264
+
+Type  : Slow 1200mV 0C Model Removal 'Echo_snl'
+Slack : 1.528
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 1.938
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Echo_snl'
+Slack : -3.000
+TNS   : -2911.572
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'LCDctrol:inst1|PHSYNC'
+Slack : -1.487
+TNS   : -14.870
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'LCDctrol:inst1|Thsync[0]'
+Slack : -0.084
+TNS   : -0.160
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLKIN'
+Slack : 19.943
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 79.764
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 499.552
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 1999.716
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Echo_snl'
+Slack : -30.346
+TNS   : -2404.686
+
+Type  : Fast 1200mV 0C Model Setup 'LCDctrol:inst1|Thsync[0]'
+Slack : -2.541
+TNS   : -2.541
+
+Type  : Fast 1200mV 0C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.575
+TNS   : -3.664
+
+Type  : Fast 1200mV 0C Model Setup 'LCDctrol:inst1|PHSYNC'
+Slack : -0.365
+TNS   : -3.508
+
+Type  : Fast 1200mV 0C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 997.700
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 3997.130
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'LCDctrol:inst1|Thsync[0]'
+Slack : -1.400
+TNS   : -1.400
+
+Type  : Fast 1200mV 0C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.074
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.194
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Echo_snl'
+Slack : 0.202
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'LCDctrol:inst1|PHSYNC'
+Slack : 0.207
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.294
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -1.744
+TNS   : -65.552
+
+Type  : Fast 1200mV 0C Model Recovery 'Echo_snl'
+Slack : -0.919
+TNS   : -12.643
+
+Type  : Fast 1200mV 0C Model Removal 'Echo_snl'
+Slack : 0.695
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 1.096
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Echo_snl'
+Slack : -3.000
+TNS   : -2189.700
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'LCDctrol:inst1|PHSYNC'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'LCDctrol:inst1|Thsync[0]'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLKIN'
+Slack : 19.594
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 79.755
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 499.772
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 1999.798
+TNS   : 0.000
+
+------------------------------------------------------------
